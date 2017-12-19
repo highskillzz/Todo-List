@@ -40,7 +40,7 @@ $("input[type='text']").keypress(function (event) {
 
 });
 
-$(".fa-plus").click(function () {
+$("#plus").click(function () {
 	console.log("plus");
 	$("input[type='text']").fadeToggle();
 });
