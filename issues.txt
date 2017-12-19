@@ -1,0 +1,3 @@
+the plus is not working because the font awesome 5 script is interfering with it and it can be made to work by including 
+
+    font awesome 4 script in it do look into the problem
